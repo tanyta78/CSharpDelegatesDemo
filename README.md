@@ -1,4 +1,5 @@
-# forked from https://github.com/GavinLonDigital/ClubMembershipApplication
+# Credits to
+forked from https://github.com/GavinLonDigital/ClubMembershipApplication
 # ClubMembershipApplication
 This code example is part of a tutorial on CSharp Delegates
 Please find the relevant tutorial at this location, https://www.youtube.com/watch?v=jABhPwEfA-I&lc=UgwmqSpc8z0An7NSWVl4AaABAg
